@@ -10,6 +10,8 @@ This folder contains all materials for **Group Work Project 3 (GWP3)** of the MS
 |------|-------------|
 | `SM_GWP3.ipynb` | Google Colab notebook with technical implementation |
 | `MScFE_622_Stochastic_Modeling_Set_A_GWP3.pdf` | Project guideline/brief |
+| `stocks_data_2025.csv` | Supporting data — current stock price data (2025) |
+| `stocks_sep_oct_2008-2.csv` | Supporting data — historical stock data (Sep–Oct 2008, financial crisis period) |
 
 ## Topic
 
